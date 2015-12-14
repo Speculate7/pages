@@ -1,0 +1,3 @@
+<h1>Welcome to Adventure!</h1>
+<p>One brilliant woman's quest to finally larn how to code <br/> after much peer pressure from her friends, coworkers, and colleagues.</p>
+<p> click this link, but <%= link_to "beware!", "http://www.animeseason.com" %>,</p>
